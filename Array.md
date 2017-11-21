@@ -1,4 +1,4 @@
-#Array
+# Array
 
 ### Find pivot index
 > e.g. arr = [1, 7, 3, 6, 5, 6] where 3 is pivot index because (excluding index 3) left subarray sum equals to right subarray
