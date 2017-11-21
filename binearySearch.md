@@ -26,7 +26,7 @@ const binarySearch = (arr, needle) => {
 };
 ```
 
-### Recurive
+### Recursive
 ```js
 const binarySearch = (arr, left, right, needle) => {
   if (left <= right) {
